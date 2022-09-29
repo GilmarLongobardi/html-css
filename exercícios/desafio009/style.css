@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgba(24, 25, 25, 0.616);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(to right, green 15%, blue, red);
+    
+}
